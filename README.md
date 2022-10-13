@@ -10,9 +10,9 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 - No third-party library has been used for the build.
 - Lighthouse scores are: 
 - For Desktop: 
-![image](https://user-images.githubusercontent.com/39340406/195542312-6fa6b58e-0ab6-427c-a5c3-bdcd858365f7.png)
+- ![image](https://user-images.githubusercontent.com/39340406/195542312-6fa6b58e-0ab6-427c-a5c3-bdcd858365f7.png)
 - For Mobile:
-![image](https://user-images.githubusercontent.com/39340406/195544309-b872a080-9d5d-44c0-8eae-a584289ab02c.png)
+- ![image](https://user-images.githubusercontent.com/39340406/195544309-b872a080-9d5d-44c0-8eae-a584289ab02c.png)
 (in Best Practices scores, due to https error score is low, otherwise no error detected)
  ## Deploy on Vercel 
  [`Click`](https://greedygamepage.vercel.app/) to view deployed page.
