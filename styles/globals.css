@@ -134,6 +134,7 @@ input[type=number] {
 .statsContainer{
   background-image: url("../public/assets/stats\ bg.png");
   background-size: cover;
+  z-index: 10;
 }
 
 .statsWrapper{
