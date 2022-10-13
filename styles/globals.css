@@ -137,12 +137,17 @@ input[type=number] {
   z-index: 1;
 } */
 
+.statsCover{
+  display: block;
+  z-index: 2;
+}
+
 .statsWrapper{
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  z-index: 1;
+  z-index: 3;
 }
 
 .stats{
