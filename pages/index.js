@@ -97,6 +97,9 @@ export default function Home() {
       
 
       <div className="statsContainer container">
+        <div className="statsCover">
+          <Image src="/assets/stats bg.png" width={3200} height={48} layout="fill" object-fit="cover" alt='Asset' />
+        </div>
         <div className="statsWrapper wrapper">
           <div className="stats">
             <span className="num">300+</span>
